@@ -1,3 +1,5 @@
+Para la base de datos: Usuario:andres1 Contraseña:andres1
+
 ENUNCIADO: 
 
 - Listar información: Lista todos los mediadores y devuelve también cuántos hay.
